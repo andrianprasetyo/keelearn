@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@300;400;700;800&display=swap");
+
+html,
+body {
+  height: 100%;
+}
+
+$enable-shadows: true;
+$primary: #258aff;
+$secondary: #94d6a3;
+$success: #2d6e41;
+$info: #c4c4c4;
+
+$body-color: #1f1f1f;
+$body-bg: #e3eef8;
+
+$border-radius: 10px;
+$btn-font-weight: 700;
+
+$font-family-base: "Karla" !default;
+
+@import "~bootstrap/scss/bootstrap";

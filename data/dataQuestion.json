@@ -1,0 +1,101 @@
+[
+    {
+        "id": "1",
+        "question": "Ketika berbicara, kamu?",
+        "choice": {
+            "A": "Berbicara dengan tempo cepat",
+            "B": "Berbicara dengan tempo sedang",
+            "C": "Berbicara dengan tempo lambat"
+        }
+    },
+    {
+        "id": "2",
+        "question": "Apa yang paling kamu ingat?",
+        "choice": {
+            "A": "Orang, lingkungan, wajah",
+            "B": "Perkataan, suara, makna",
+            "C": "Kejadian, peristiwa, emosi"
+        }
+    },
+    {
+        "id": "3",
+        "question": "Bagaimana cara kamu menghapal?",
+        "choice": {
+            "A": "Menulisnya berulang-ulang",
+            "B": "Mengulangi kata-kata sekeras mungkin",
+            "C": "Menghapalnya sambil berjalan-jalan"
+        }
+    },
+    {
+        "id": "4",
+        "question": "Apakah yang bisa membuat kamu terganggu?",
+        "choice": {
+            "A": "Benda-benda di sekitar kamu",
+            "B": "Suara",
+            "C": "Gerakan"
+        }
+    },
+    {
+        "id": "5",
+        "question": "Ketika mengeja sebuah kata, yang kamu lakukan adalah?",
+        "choice": {
+            "A": "Membayangkan kata itu",
+            "B": "Menyebutnya dengan keras",
+            "C": "Menuliskannya"
+        }
+    },
+    {
+        "id": "6",
+        "question": "Apa yang lebih kamu sukai?",
+        "choice": {
+            "A": "Lukisan",
+            "B": "Musik",
+            "C": "Menari/ olahraga"
+        }
+    },
+    {
+        "id": "7",
+        "question": "Ketika mendapat petunjuk cara mengerjakan sesuatu, apa yang lebih kamu sukai?",
+        "choice": {
+            "A": "Diberi gambar untuk ditirukan",
+            "B": "Diberi tahu dengan kata-kata bagaimana cara melakukannya",
+            "C": "Diberi contoh untuk diperagakan secara langsung"
+        }
+    },
+    {
+        "id": "8",
+        "question": "Mana yang lebih sering kamu katakan?",
+        "choice": {
+            "A": "Kelihatannya bagus",
+            "B": "Kedengarannya bagus",
+            "C": "Rasanya enak"
+        }
+    },
+    {
+        "id": "9",
+        "question": "Ketika membaca, apa yang kamu lakukan?",
+        "choice": {
+            "A": "Melihat bacaan sambil membaca dalam hati",
+            "B": "Membaca dengan bersuara",
+            "C": "Menggunakan jari untuk menunjuk bagian yang dibaca"
+        }
+    },
+    {
+        "id": "10",
+        "question": "Ketika ingat pasar, apa yang sih yang pertama kali muncul dalam pikiran kamu?",
+        "choice": {
+            "A": "Pemandangan tentang orang-orang yang berbelanja dan barang-barang yang diperjualbelikan",
+            "B": "Ramainya suara orang-orang di pasar",
+            "C": "Orang-orang yang hilir mudik dan lalu lalang di pasar"
+        }
+    },
+    {
+        "id": "11",
+        "question": "Ketika akan tidur, apa yang buat kamu paling nyaman?",
+        "choice": {
+            "A": "Kamar yang gelap/ samar/ terang",
+            "B": "Kamar yang tenang tidak berisik",
+            "C": "Tempat tidur yang nyaman"
+        }
+    }
+]
