@@ -26,13 +26,17 @@ const handler = (req, res) => {
 
     const dt = new DecisionTree(dataTraining, class_name, features);
 
+    console.log("dt", dt);
+
     const predicted_class = dt.predict(userAnswer);
 
     const accuracy = dt.evaluate(dataTraining);
 
     const treeJson = dt.toJSON();
 
-    res.status(200).json({ hasil: predicted_class, accuracy: accuracy, tree: treeJson });
+    res
+      .status(200)
+      .json({ hasil: predicted_class, accuracy: accuracy, tree: treeJson });
   }
 };
 

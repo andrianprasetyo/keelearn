@@ -1,0 +1,1170 @@
+[
+  {
+    "pertanyaan_1": "A",
+    "pertanyaan_2": "A",
+    "pertanyaan_3": "A",
+    "pertanyaan_4": "A",
+    "pertanyaan_5": "A",
+    "pertanyaan_6": "A",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Visual"
+  },
+  {
+    "pertanyaan_1": "B",
+    "pertanyaan_2": "A",
+    "pertanyaan_3": "A",
+    "pertanyaan_4": "A",
+    "pertanyaan_5": "A",
+    "pertanyaan_6": "A",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Visual"
+  },
+  {
+    "pertanyaan_1": "B",
+    "pertanyaan_2": "B",
+    "pertanyaan_3": "A",
+    "pertanyaan_4": "A",
+    "pertanyaan_5": "A",
+    "pertanyaan_6": "A",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Visual"
+  },
+  {
+    "pertanyaan_1": "B",
+    "pertanyaan_2": "B",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "A",
+    "pertanyaan_5": "A",
+    "pertanyaan_6": "A",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Visual"
+  },
+  {
+    "pertanyaan_1": "B",
+    "pertanyaan_2": "B",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "A",
+    "pertanyaan_6": "A",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Visual"
+  },
+  {
+    "pertanyaan_1": "B",
+    "pertanyaan_2": "B",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "A",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Visual"
+  },
+  {
+    "pertanyaan_1": "B",
+    "pertanyaan_2": "B",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "B",
+    "pertanyaan_2": "B",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "B",
+    "pertanyaan_2": "B",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "B",
+    "pertanyaan_2": "B",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "B",
+    "pertanyaan_2": "B",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "B",
+    "pertanyaan_11": "A",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "B",
+    "pertanyaan_2": "B",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "B",
+    "pertanyaan_11": "B",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "A",
+    "pertanyaan_3": "A",
+    "pertanyaan_4": "A",
+    "pertanyaan_5": "A",
+    "pertanyaan_6": "A",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Visual"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "B",
+    "pertanyaan_3": "A",
+    "pertanyaan_4": "A",
+    "pertanyaan_5": "A",
+    "pertanyaan_6": "A",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Visual"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "B",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "A",
+    "pertanyaan_5": "A",
+    "pertanyaan_6": "A",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Visual"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "B",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "A",
+    "pertanyaan_6": "A",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Visual"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "B",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "A",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Visual"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "B",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "B",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "B",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "B",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "B",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "B",
+    "pertanyaan_11": "A",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "B",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "B",
+    "pertanyaan_11": "B",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "A",
+    "pertanyaan_4": "A",
+    "pertanyaan_5": "A",
+    "pertanyaan_6": "A",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Visual"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "A",
+    "pertanyaan_5": "A",
+    "pertanyaan_6": "A",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Visual"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "A",
+    "pertanyaan_6": "A",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Visual"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "A",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Visual"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Visual"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "B",
+    "pertanyaan_11": "A",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "B",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "B",
+    "pertanyaan_11": "B",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "A",
+    "pertanyaan_5": "A",
+    "pertanyaan_6": "A",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Visual"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "A",
+    "pertanyaan_6": "A",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Visual"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "A",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Visual"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Visual"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "B",
+    "pertanyaan_11": "A",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "B",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "B",
+    "pertanyaan_11": "B",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "A",
+    "pertanyaan_6": "A",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Visual"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "A",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Visual"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Visual"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "B",
+    "pertanyaan_11": "A",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "B",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "B",
+    "pertanyaan_11": "B",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "A",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Visual"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "B",
+    "pertanyaan_11": "A",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "B",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "B",
+    "pertanyaan_11": "B",
+
+    "class": "Auditory"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "C",
+    "pertanyaan_7": "A",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "C",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "C",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "C",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "C",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "B",
+    "pertanyaan_11": "A",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "C",
+    "pertanyaan_7": "B",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "B",
+    "pertanyaan_11": "B",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "C",
+    "pertanyaan_7": "C",
+    "pertanyaan_8": "A",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "C",
+    "pertanyaan_7": "C",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "C",
+    "pertanyaan_7": "C",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "C",
+    "pertanyaan_7": "C",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "B",
+    "pertanyaan_11": "A",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "C",
+    "pertanyaan_7": "C",
+    "pertanyaan_8": "B",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "B",
+    "pertanyaan_11": "B",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "C",
+    "pertanyaan_7": "C",
+    "pertanyaan_8": "C",
+    "pertanyaan_9": "A",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "C",
+    "pertanyaan_7": "C",
+    "pertanyaan_8": "C",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "C",
+    "pertanyaan_7": "C",
+    "pertanyaan_8": "C",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "B",
+    "pertanyaan_11": "A",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "C",
+    "pertanyaan_7": "C",
+    "pertanyaan_8": "C",
+    "pertanyaan_9": "B",
+    "pertanyaan_10": "B",
+    "pertanyaan_11": "B",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "C",
+    "pertanyaan_7": "C",
+    "pertanyaan_8": "C",
+    "pertanyaan_9": "C",
+    "pertanyaan_10": "A",
+    "pertanyaan_11": "A",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "C",
+    "pertanyaan_7": "C",
+    "pertanyaan_8": "C",
+    "pertanyaan_9": "C",
+    "pertanyaan_10": "B",
+    "pertanyaan_11": "A",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "C",
+    "pertanyaan_7": "C",
+    "pertanyaan_8": "C",
+    "pertanyaan_9": "C",
+    "pertanyaan_10": "B",
+    "pertanyaan_11": "B",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "C",
+    "pertanyaan_7": "C",
+    "pertanyaan_8": "C",
+    "pertanyaan_9": "C",
+    "pertanyaan_10": "C",
+    "pertanyaan_11": "A",
+
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "C",
+    "pertanyaan_7": "C",
+    "pertanyaan_8": "C",
+    "pertanyaan_9": "C",
+    "pertanyaan_10": "C",
+    "pertanyaan_11": "B",
+    "class": "Kinestetik"
+  },
+  {
+    "pertanyaan_1": "C",
+    "pertanyaan_2": "C",
+    "pertanyaan_3": "C",
+    "pertanyaan_4": "C",
+    "pertanyaan_5": "C",
+    "pertanyaan_6": "C",
+    "pertanyaan_7": "C",
+    "pertanyaan_8": "C",
+    "pertanyaan_9": "C",
+    "pertanyaan_10": "C",
+    "pertanyaan_11": "C",
+    "class": "Kinestetik"
+  }
+]

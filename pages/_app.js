@@ -1,4 +1,4 @@
-import "../styles/customTheme.scss";
+import "../styles/customTheme.css";
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />;

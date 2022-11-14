@@ -1,0 +1,42 @@
+.backgroundPattern {
+  background-image: url("/assets/images/pattern_background_result.png");
+  height: 100vh;
+
+  background-position: bottom; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.subHeading {
+  letter-spacing: 0.05em;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.heading {
+  max-width: 800px;
+  letter-spacing: -0.05em;
+  line-height: 135%;
+  font-size: 72px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.tagline {
+  max-width: 50vw;
+  font-size: 20px;
+  text-align: center;
+  line-height: 150%;
+  color: #696666;
+}
+
+.taglineSmall {
+  max-width: 50vw;
+  font-size: 20px;
+  line-height: 150%;
+  color: #696666;
+}
+
+.container {
+  padding: 100px 50px 100px;
+}
